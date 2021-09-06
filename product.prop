@@ -30,6 +30,13 @@ media.settings.xml=/vendor/etc/media_profiles_vendor.xml
 # Netflix
 ro.netflix.bsp_rev=Q670-14477-1
 
+# PixelPlusUI
+ro.ppui.device_name=Lenovo Z5s
+ro.ppui.version=3.9
+ro.ppui.version_code=Eternal
+ro.ppui.is_official=true
+ro.ppui.maintainer_name=Husker
+
 # RIL
 ro.telephony.default_network=22,20
 persist.dbg.volte_avail_ovr=1
